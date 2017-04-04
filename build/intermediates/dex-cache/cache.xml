@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a37f4af1153521e75915e63034ec06c49ff8fe40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_b952190aea1a65d64c15ccf045dc5b59bc42e5eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_6f6e2d1ac77d5bfa7a48426e47064740d35af123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4c3bf57210fd9e13d8bdca642d732c201da304c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_b22db553dead895b07dc17098e3a15dd9b3bdb92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_ec80768f93430e2fb12f274e039094eda04e4105\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_b714238801804d8974494309b72c17579b6f5cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_320897b9c7943e58c8efb9c310b172520de687a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8b74a4617e9294a6bc85b8581642401f574fc4ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e662d453d43fe4b7d03acd73ddbe898ed297ee52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_e3e96b4397e49e0a68631d54fc47eae5e303fab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b7393a4b190eca01930c437c5272465efcedb880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_a17ca211c9042c0e7291518f37841410f39bf290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_aec3a31decb3f55811e0d71d864301c6f4133a93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_a80453926e4e4f8ab107e724f34f2afc665bc70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_5aa37df689e52ffe778a0af83296fb1df9c7061f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_6aca34089a60d4c81b5ff8da4cfde9e5b009fc0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_6115a075ad2d3e0586109511a6804fbf122366d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26ee0c780a4b60a4c854412b27d60471b92fdfc1">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_72d355a809ca3b8b505aa11dcc0fc68a797ed4d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_d629448963fe9dbf58e4189064048ca437a0a12c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_b47f225f8f49ff10228de42cd100ba7c87711a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6b85a303277f0c2c7c23b06d2fdbc94eb3d1d516\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_8104fbedcad2a9c1dc3e42ccf548f4caa79a8091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0f4c4b5a06efe3c1b5997ca5ec61c2d49805d7ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_8b08de9e109f3c186ed32b37be1b90f51cb24a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_28dae3a98b21b43a080292413aa8cf6df9a2bc6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_03212b4bc4b50f4f3f5c91e07900a4c6d0fe0c25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5126635a3842efb4dc85e7add33ce1c92d48c5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_8ab5a6150d71e7fbad702dc413ace02d5500498f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_42339a7cf4948372fbacdad8cc927178a59acbd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_0277971cc69d2ef9b5d51c89807a7a70d69915b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_73b61bd7e021bbe1e260c69e7763ca57b41b932f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4caab4f25a90138b51be9a28645f38f7d9233f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a1af320487915a3bd6c3665c497f0db53951ba8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_97121f09bb96177c767efbb2660f21572a32fcef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_df14dd85e143f9d624dbe64b655fc4de40033a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_301aa6e21a8323217d8ce90f19b1f3409eddcc8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d1078b5d79612e4ab3914aae6f43e868715693e">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_51ae52c51331d2f7361ab090163825305aa18571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_6558dd276150c5a38925b245a9f1846adaf2220c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_6febe052de6d01b1257236ba7ab29b2bfc95fab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_ad9923d1dec863171f42e57633076d406295d096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_158816436a88df6ae6ef8b72c8f91f26f87bdee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_24f0b1199b6cf7e30abb50234af2439a05af37b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_da84f3f6150d9f418ec99280a48313152ae9cec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_63d609147bc667995f3ffc4bcddb8e8d95516be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_40d0b02b75d61e3254a9f52f8714ed6538b12b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_2749eb4cbde75a3b8df49dcca56c6fcc471f0867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_4e72fc144d26442f69a68a0e0cd6f6a5b96c176a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4caa10a951754db5cc6f9c50d303074abf327b85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_79913ddfa9516f352f561a1f5bfa33d00c1337b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_5ed52c8aca3d7874b3fb4bd4844eb34f2c73fb25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_f7110a94a4a694d1861b281ef7e25c7fa02d99d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_fbc64647a0c2695a9c84a0f6fb02054b022c2c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_1f9d66dc60d7f0635aae5a2f9b791c3894853401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_3cefacc17ab19aa672f9d26716709cec69475f34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_aa5115f47d9afa95544b9e2d867736b4dbffaba4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_87ada8a3de3dad0eef1f2cab2ee478e414e032c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_2fdb1a64d9f36a25db1d7c259c02634df8146ff0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9db7fdb2e63502eefc20c6db4da34f009d3f7236\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_ef692f12b98f75a333b16c9cea51fbd0604ef9f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_38149e6ab881539eee05c811dc70afb9b059f496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_e87e27d85cb32f12b8120f4ac1809c68e998deb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_4160dfbff491d2ead24ff6aa26afdda5d50245f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_33f2d9c669255587003d9b451d911def986f699b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_9945d7917504a54536ddd74dd7a2dc4de2c08a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_7514ff11bc3d451b7f0839039241b33864172639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_dfdf541cab289d8fa700b0658b9d611f90f330e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_e4a941e62d36a27c27253edb438f1435f62284e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\alfi\AndroidStudioProjects\gpsdinamis\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_9f5b3e61d1e09a21ddc5b3281229faf46ceb7601\classes.dex" />
+    </item>
+
+</items>
